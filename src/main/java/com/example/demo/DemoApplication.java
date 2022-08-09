@@ -14,6 +14,7 @@ public class DemoApplication {
         System.out.println("check out hot-fix");
 
         System.out.println("check out MASTER");
+        System.out.println("check out MASTER2");
 
 
     }
